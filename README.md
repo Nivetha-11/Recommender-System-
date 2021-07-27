@@ -8,10 +8,10 @@ Root Mean Square Deviation (RMSD) to be 1.35, along with the evaluation metrics 
 
 <img width="827" alt="Screen Shot 2021-07-27 at 4 45 12 pm" src="https://user-images.githubusercontent.com/57209945/127108265-d18257d0-6a67-475e-b817-d82206ffe0c8.png">
 
-# Dataset Details: 
+## Dataset Details: 
 https://drive.google.com/drive/folders/1XObK31BhFI2bZI1nd8EzcW7kAt0Fv9vx
 
-# NETWORK ANALYSIS OF MOVIE RECOMMENDER SYSTEM
+## Network Analysis of Movie Recommender System:
 
 <img width="743" alt="Screen Shot 2021-07-27 at 4 47 04 pm" src="https://user-images.githubusercontent.com/57209945/127108507-b56c5b7d-8b3e-4d95-958f-803202f81be4.png">
 
