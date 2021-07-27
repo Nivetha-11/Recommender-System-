@@ -1,3 +1,4 @@
+<img width="595" alt="Screen Shot 2021-07-27 at 4 44 27 pm" src="https://user-images.githubusercontent.com/57209945/127108173-e3b44923-c21b-4b81-a6b8-0144fdde2dbe.png">
 # Movie Recommender-System-
 
 This project discusses and analyses a range of different techniques and algorithms used in movie recommendation systems 
